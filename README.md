@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML,CSS,JS
 - 💞️ I’m looking to collaborate in future for educational purposes 
 - 📫 How to reach me-gmail: pushparajnule011@gmail.com
--                   -Instagram: @pushparajnule
+- ✨Instagram: @pushparajnule
 - ⚡ Fun fact: I Watch Anime
 
 <!---
