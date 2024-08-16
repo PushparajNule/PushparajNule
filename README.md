@@ -10,4 +10,4 @@
 PushparajNule/PushparajNule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-hiii
+Wanna explore about my skills and expertise,check out my Skills folder or Projects Repo.
