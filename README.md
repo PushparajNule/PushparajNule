@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate in future for educational purposes 
 - 📫 How to reach me-gmail: pushparajnule011@gmail.com
 - ✨Instagram: @pushparajnule
-- ⚡ Fun fact: I Watch Films,Anime.Listen to Music,Poetry.Like to sketch
+- ⚡ Fun fact: I Watch Films,Anime.Listen to Music,Poetry.
 
 <!---
 PushparajNule/PushparajNule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
